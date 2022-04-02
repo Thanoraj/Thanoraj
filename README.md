@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Thanoraj
-- 🌱 I’m a flutter developer.
-- 👀 I’m interested in programming.
-- 📫 You can reach me @ www.linkedin.com/in/muthulingamthanoraj
+- Python Programmer.
+- I’m an AI & ML Enthusiast.
+- Flutter And React JS developer.
+- You can reach me @ www.linkedin.com/in/muthulingamthanoraj
 
 ![Thanoraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanoraj&count_private=true&show_icons=true&theme=radical)
 
