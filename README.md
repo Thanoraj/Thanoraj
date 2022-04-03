@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thanoraj
 - Python Programmer.
 - I’m an AI & ML Enthusiast.
-- Flutter And React JS developer.
+- Full stack developer.
 - You can reach me @ www.linkedin.com/in/muthulingamthanoraj
 
 ![Thanoraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thanoraj&count_private=true&show_icons=true&theme=radical)
